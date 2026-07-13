@@ -1,0 +1,25 @@
+Year,Product_Category,Annual_Revenue,Previous_Year_Revenue,Revenue_Change
+2022,"Apparel and Merchandise",91261.84,NULL,NULL
+2023,"Apparel and Merchandise",120010.22,91261.84,28748.38
+2024,"Apparel and Merchandise",120129.54,120010.22,119.32
+2025,"Apparel and Merchandise",169185.87,120129.54,49056.33
+2022,"Art Supplies",84065.95,NULL,NULL
+2023,"Art Supplies",100179.64,84065.95,16113.69
+2024,"Art Supplies",100529.07,100179.64,349.43
+2025,"Art Supplies",149222.01,100529.07,48692.94
+2022,"Books (General)",102417.62,NULL,NULL
+2023,"Books (General)",116112.70,102417.62,13695.08
+2024,"Books (General)",116405.21,116112.70,292.51
+2025,"Books (General)",159910.23,116405.21,43505.02
+2022,"Stationery and Supplies",32269.45,NULL,NULL
+2023,"Stationery and Supplies",40298.52,32269.45,8029.07
+2024,"Stationery and Supplies",40416.99,40298.52,118.47
+2025,"Stationery and Supplies",61084.52,40416.99,20667.53
+2022,"Technology & Accessories",1511977.60,NULL,NULL
+2023,"Technology & Accessories",1927244.53,1511977.60,415266.93
+2024,"Technology & Accessories",1932871.91,1927244.53,5627.38
+2025,"Technology & Accessories",2454843.80,1932871.91,521971.89
+2022,Textbooks,587975.24,NULL,NULL
+2023,Textbooks,509847.59,587975.24,-78127.65
+2024,Textbooks,511338.87,509847.59,1491.28
+2025,Textbooks,412016.17,511338.87,-99322.70

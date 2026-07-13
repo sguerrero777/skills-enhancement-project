@@ -1,0 +1,201 @@
+Revenue_Month,Product_Category,Transaction_Count,Average_Transaction_Size,Category_Revenue
+2022-01,"Technology & Accessories",287,406.78,116744.81
+2022-01,Textbooks,246,177.25,43602.82
+2022-01,"Books (General)",295,36.29,10705.31
+2022-01,"Apparel and Merchandise",260,32.00,8321.14
+2022-01,"Art Supplies",263,30.90,8125.76
+2022-01,"Stationery and Supplies",247,10.38,2565.06
+2022-02,"Technology & Accessories",287,466.12,133775.12
+2022-02,Textbooks,220,176.03,38726.96
+2022-02,"Books (General)",281,30.81,8658.81
+2022-02,"Art Supplies",229,31.05,7111.45
+2022-02,"Apparel and Merchandise",210,31.30,6572.25
+2022-02,"Stationery and Supplies",246,10.91,2684.59
+2022-03,"Technology & Accessories",319,434.93,138741.90
+2022-03,Textbooks,255,179.60,45798.15
+2022-03,"Apparel and Merchandise",247,33.79,8345.17
+2022-03,"Books (General)",235,32.03,7527.35
+2022-03,"Art Supplies",232,31.24,7247.35
+2022-03,"Stationery and Supplies",243,10.57,2568.56
+2022-04,"Technology & Accessories",271,387.06,104893.91
+2022-04,Textbooks,287,176.49,50652.97
+2022-04,"Apparel and Merchandise",221,31.82,7032.77
+2022-04,"Books (General)",242,28.34,6859.03
+2022-04,"Art Supplies",226,30.27,6841.63
+2022-04,"Stationery and Supplies",247,11.03,2723.87
+2022-05,"Technology & Accessories",290,434.24,125929.83
+2022-05,Textbooks,321,186.62,59906.54
+2022-05,"Books (General)",264,31.69,8367.03
+2022-05,"Apparel and Merchandise",245,31.69,7762.91
+2022-05,"Art Supplies",235,32.37,7608.12
+2022-05,"Stationery and Supplies",236,10.40,2454.27
+2022-06,"Technology & Accessories",264,478.94,126439.66
+2022-06,Textbooks,262,181.92,47663.45
+2022-06,"Books (General)",279,30.05,8384.00
+2022-06,"Apparel and Merchandise",226,31.68,7159.43
+2022-06,"Art Supplies",198,30.45,6029.32
+2022-06,"Stationery and Supplies",258,10.24,2643.12
+2022-07,"Technology & Accessories",303,512.03,155146.35
+2022-07,Textbooks,263,183.53,48268.19
+2022-07,"Books (General)",297,34.24,10170.23
+2022-07,"Apparel and Merchandise",264,30.77,8122.23
+2022-07,"Art Supplies",210,32.00,6720.00
+2022-07,"Stationery and Supplies",267,10.42,2781.13
+2022-08,"Technology & Accessories",303,423.52,128326.56
+2022-08,Textbooks,279,183.67,51244.40
+2022-08,"Books (General)",273,30.34,8281.87
+2022-08,"Apparel and Merchandise",236,28.96,6834.30
+2022-08,"Art Supplies",213,27.67,5894.12
+2022-08,"Stationery and Supplies",265,11.03,2922.15
+2022-09,"Technology & Accessories",238,386.36,91952.73
+2022-09,Textbooks,248,175.44,43509.63
+2022-09,"Books (General)",245,30.94,7580.35
+2022-09,"Art Supplies",219,31.66,6933.62
+2022-09,"Apparel and Merchandise",216,30.62,6614.38
+2022-09,"Stationery and Supplies",250,9.45,2362.03
+2022-10,"Technology & Accessories",282,433.55,122260.51
+2022-10,Textbooks,281,178.42,50134.86
+2022-10,"Books (General)",301,33.37,10043.62
+2022-10,"Art Supplies",238,32.47,7727.10
+2022-10,"Apparel and Merchandise",237,31.94,7568.96
+2022-10,"Stationery and Supplies",254,10.58,2688.02
+2022-11,"Technology & Accessories",288,437.05,125870.20
+2022-11,Textbooks,287,181.69,52143.68
+2022-11,"Apparel and Merchandise",250,32.50,8126.10
+2022-11,"Books (General)",239,29.48,7046.53
+2022-11,"Art Supplies",221,28.25,6242.92
+2022-11,"Stationery and Supplies",266,11.04,2935.70
+2022-12,"Technology & Accessories",291,487.62,141896.02
+2022-12,Textbooks,305,184.67,56323.59
+2022-12,"Apparel and Merchandise",259,33.99,8802.20
+2022-12,"Books (General)",271,32.45,8793.49
+2022-12,"Art Supplies",221,34.32,7584.56
+2022-12,"Stationery and Supplies",287,10.25,2940.95
+2023-01,"Technology & Accessories",382,462.33,176610.34
+2023-01,Textbooks,203,168.95,34297.45
+2023-01,"Apparel and Merchandise",354,33.89,11997.04
+2023-01,"Books (General)",317,37.59,11914.83
+2023-01,"Art Supplies",270,33.07,8929.77
+2023-01,"Stationery and Supplies",328,10.54,3458.37
+2023-02,"Technology & Accessories",339,462.39,156748.57
+2023-02,Textbooks,171,170.60,29171.94
+2023-02,"Apparel and Merchandise",291,32.53,9467.64
+2023-02,"Art Supplies",261,31.90,8326.85
+2023-02,"Books (General)",284,29.19,8289.97
+2023-02,"Stationery and Supplies",302,10.40,3141.58
+2023-03,"Technology & Accessories",317,453.23,143674.16
+2023-03,Textbooks,209,171.13,35766.63
+2023-03,"Apparel and Merchandise",317,32.87,10419.53
+2023-03,"Books (General)",333,30.78,10249.78
+2023-03,"Art Supplies",267,32.66,8719.74
+2023-03,"Stationery and Supplies",350,10.19,3567.26
+2023-04,"Technology & Accessories",381,484.21,184482.29
+2023-04,Textbooks,212,170.12,36065.03
+2023-04,"Apparel and Merchandise",328,32.14,10541.37
+2023-04,"Books (General)",326,31.79,10362.61
+2023-04,"Art Supplies",273,30.52,8330.86
+2023-04,"Stationery and Supplies",348,10.27,3572.32
+2023-05,"Technology & Accessories",349,491.47,171522.52
+2023-05,Textbooks,198,165.69,32807.15
+2023-05,"Apparel and Merchandise",323,30.62,9891.18
+2023-05,"Art Supplies",284,33.26,9444.50
+2023-05,"Books (General)",286,32.18,9204.27
+2023-05,"Stationery and Supplies",335,10.15,3401.76
+2023-06,"Technology & Accessories",332,516.63,171521.99
+2023-06,Textbooks,241,172.17,41491.91
+2023-06,"Books (General)",301,32.17,9681.83
+2023-06,"Apparel and Merchandise",300,31.37,9410.45
+2023-06,"Art Supplies",257,32.43,8334.51
+2023-06,"Stationery and Supplies",322,9.82,3162.73
+2023-07,"Technology & Accessories",338,412.81,139528.97
+2023-07,Textbooks,277,175.64,48653.30
+2023-07,"Apparel and Merchandise",314,32.78,10291.78
+2023-07,"Books (General)",293,31.28,9166.11
+2023-07,"Art Supplies",258,29.94,7724.30
+2023-07,"Stationery and Supplies",306,10.79,3300.39
+2023-08,"Technology & Accessories",325,462.04,150163.45
+2023-08,Textbooks,283,177.16,50136.59
+2023-08,"Books (General)",333,33.14,11036.17
+2023-08,"Apparel and Merchandise",299,34.01,10168.01
+2023-08,"Art Supplies",273,30.90,8435.14
+2023-08,"Stationery and Supplies",324,10.24,3317.41
+2023-09,"Technology & Accessories",335,447.19,149810.29
+2023-09,Textbooks,283,170.82,48341.24
+2023-09,"Books (General)",299,32.66,9764.75
+2023-09,"Apparel and Merchandise",279,33.63,9381.98
+2023-09,"Art Supplies",229,31.06,7113.58
+2023-09,"Stationery and Supplies",304,10.61,3226.53
+2023-10,"Technology & Accessories",363,458.19,166324.55
+2023-10,Textbooks,301,172.87,52032.93
+2023-10,"Apparel and Merchandise",321,30.68,9848.89
+2023-10,"Books (General)",294,29.40,8642.96
+2023-10,"Art Supplies",263,29.71,7814.44
+2023-10,"Stationery and Supplies",329,10.43,3431.46
+2023-11,"Technology & Accessories",370,441.75,163445.65
+2023-11,Textbooks,297,168.43,50024.84
+2023-11,"Apparel and Merchandise",282,32.72,9226.79
+2023-11,"Books (General)",273,31.86,8697.30
+2023-11,"Art Supplies",254,29.18,7411.64
+2023-11,"Stationery and Supplies",299,10.75,3213.72
+2023-12,"Technology & Accessories",351,437.07,153411.75
+2023-12,Textbooks,304,167.96,51058.58
+2023-12,"Art Supplies",289,33.20,9594.31
+2023-12,"Apparel and Merchandise",294,31.86,9365.56
+2023-12,"Books (General)",282,32.28,9102.12
+2023-12,"Stationery and Supplies",318,11.02,3504.99
+2024-01,"Technology & Accessories",366,460.43,168516.05
+2024-01,Textbooks,199,172.04,34235.69
+2024-01,"Apparel and Merchandise",318,31.69,10077.79
+2024-01,"Books (General)",316,29.14,9208.97
+2024-01,"Art Supplies",287,31.62,9073.68
+2024-01,"Stationery and Supplies",338,10.47,3538.11
+2024-02,"Technology & Accessories",299,459.98,137534.06
+2024-02,Textbooks,189,170.34,32194.16
+2024-02,"Apparel and Merchandise",297,33.43,9928.70
+2024-02,"Books (General)",313,30.75,9623.29
+2024-02,"Art Supplies",248,33.56,8322.34
+2024-02,"Stationery and Supplies",325,10.12,3289.20
+2024-03,"Technology & Accessories",393,491.36,193104.56
+2024-03,Textbooks,215,170.54,36666.10
+2024-03,"Apparel and Merchandise",339,32.29,10947.63
+2024-03,"Books (General)",337,31.85,10731.88
+2024-03,"Art Supplies",281,30.42,8548.70
+2024-03,"Stationery and Supplies",358,10.24,3666.11
+2024-04,"Technology & Accessories",337,483.38,162900.25
+2024-04,Textbooks,195,165.16,32206.08
+2024-04,"Apparel and Merchandise",312,30.40,9484.92
+2024-04,"Art Supplies",276,33.43,9226.66
+2024-04,"Books (General)",275,32.13,8835.00
+2024-04,"Stationery and Supplies",325,10.18,3307.97
+2024-05,"Technology & Accessories",344,506.75,174321.82
+2024-05,Textbooks,249,172.36,42917.54
+2024-05,"Books (General)",315,31.71,9987.36
+2024-05,"Apparel and Merchandise",306,31.38,9602.75
+2024-05,"Art Supplies",269,32.42,8719.85
+2024-05,"Stationery and Supplies",336,9.98,3352.16
+2024-06,"Technology & Accessories",326,419.41,136729.14
+2024-06,Textbooks,269,175.57,47227.67
+2024-06,"Apparel and Merchandise",308,32.79,10099.48
+2024-06,"Books (General)",279,31.76,8860.58
+2024-06,"Art Supplies",246,29.83,7338.96
+2024-06,"Stationery and Supplies",292,10.65,3110.96
+2024-07,"Technology & Accessories",325,462.04,150163.45
+2024-07,Textbooks,283,177.16,50136.59
+2024-07,"Books (General)",333,33.14,11036.17
+2024-07,"Apparel and Merchandise",299,34.01,10168.01
+2024-07,"Art Supplies",273,30.90,8435.14
+2024-07,"Stationery and Supplies",324,10.24,3317.41
+2024-08,"Technology & Accessories",346,447.80,154938.41
+2024-08,Textbooks,291,170.32,49563.51
+2024-08,"Books (General)",306,32.40,9914.45
+2024-08,"Apparel and Merchandise",289,33.11,9569.34
+2024-08,"Art Supplies",239,31.38,7500.61
+2024-08,"Stationery and Supplies",316,10.69,3377.45
+2024-09,"Technology & Accessories",352,457.94,161196.43
+2024-09,Textbooks,293,173.42,50810.66
+2024-09,"Apparel and Merchandise",311,31.07,9661.53
+2024-09,"Books (General)",287,29.59,8493.26
+2024-09,"Art Supplies",253,29.36,7427.41
+2024-09,"Stationery and Supplies",317,10.35,3280.54
+2024-10,"Technology & Accessories",378,438.29,165675.23
+2024-10,Textbooks,310,167.94,52060.19
