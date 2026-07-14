@@ -1,0 +1,42 @@
+Note Explained:
+
+I imported the sample_sales database used in first capstone into Power BI, created the measures for each question and updated the relationships between the tables. Down below are the business questions that need to be answered and where to find the measures and calculated columns to do so. 
+
+I also created a new table called Project Measures, that stores all the measures needed to answer these questions.
+The table has no values, it's just a place holder for measures.
+
+-- Question 1:
+-- What is total revenue overall for sales in the assigned
+-- territory, plus the start date and end date that tell you
+-- what period the data covers?
+
+All tools are in the Project Measures table
+
+-- Question 2:
+-- What is the month by month revenue breakdown for the
+-- sales territory?
+
+All tools are in the Project Measures and the store_sales table
+
+-- Question 3:
+-- Provide a comparison of total revenue for the specific
+-- sales territory and the region it belongs to.
+
+All tools are in the Project Measures and management table
+
+-- Question 4:
+-- What is the number of transactions per month and average
+-- transaction size by product category for the sales 
+-- territory?
+
+All tools are in the Project Measures and store_sales table
+
+-- Question 5:
+-- Can you provide a ranking of in-store sales performance by
+-- each store in the sales territory?
+
+All tools are in the Project Measures and store_locations table
+
+-- Question 6:
+-- What is your recommendation for where to focus sales
+-- attention in the next quarter?
