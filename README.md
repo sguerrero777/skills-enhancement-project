@@ -1,4 +1,4 @@
-# Skill-Enhancement-Project: Empirium Maryland Sales 
+# Skill-Enhancement-Project: EmporiUm Maryland Sales 
 # Overview and Objectives
 Sales Manager Shruti Reddy assigned a team of Data Analysts to perform a sales analysis for EmporiUm, a student bookstore chain that sells technology, textbooks, art supplies, 
 and other products across the U.S. This analysis focuses on the Maryland territory and utilizes Excel and Power BI to target key business questions, identify trends, 
